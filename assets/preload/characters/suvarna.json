@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "suvarna Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "suvarna Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "suvarna Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "suvarna Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "suvarna Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				16
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "suvarnaAlt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-40
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "suvarnaAlt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-29
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "suvarnaAlt Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				15
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "suvarnaAlt Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/suvarnaAssets",
+	"position": [
+		-190,
+		0
+	],
+	"healthicon": "suvarna",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		154,
+		205
+	],
+	"camera_position": [
+		-30,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "alya Idle"
+		},
+		{
+			"offsets": [
+				253,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "alya Down Note0"
+		},
+		{
+			"offsets": [
+				-20,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "alya Up note0"
+		},
+		{
+			"offsets": [
+				-44,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "alya NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				54,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "alya Note Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alyaAssets",
+	"position": [
+		40,
+		240
+	],
+	"healthicon": "alya",
+	"flip_x": true,
+	"healthbar_colors": [
+		108,
+		164,
+		131
+	],
+	"camera_position": [
+		-190,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

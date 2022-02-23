@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "roro Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "roro Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "roro Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "roro Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "roro Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roroAssets",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "roro",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		201,
+		97
+	],
+	"camera_position": [
+		-20,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
