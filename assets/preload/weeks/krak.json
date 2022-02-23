@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Kraken",
+			"suvarna",
+			[
+				255,
+				178,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "da funny secret song",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "atlantis",
+	"startUnlocked": false
+}

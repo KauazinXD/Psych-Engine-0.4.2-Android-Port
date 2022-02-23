@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"Sweet-Waves",
+			"anchor",
+			[
+				0,
+				255,
+				253
+			]
+		],
+		[
+			"Marine",
+			"roro",
+			[
+				0,
+				255,
+				253
+			]
+		],
+		[
+			"Trident",
+			"roro",
+			[
+				0,
+				255,
+				253
+			]
+		],
+		[
+			"Chill",
+			"alya",
+			[
+				0,
+				255,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"ddd",
+		"bf",
+		"gf"
+	],
+	"storyName": "the deeper we go",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
